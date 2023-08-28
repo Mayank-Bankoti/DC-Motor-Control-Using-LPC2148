@@ -1,0 +1,20 @@
+<html>
+<body>
+<pre>
+<h1>µVision3 Build Log</h1>
+<h2>Project:</h2>
+C:\Users\mayan\Documents\ARM\DC_Motor_Control\DC_Motor_Control.uv2
+Project File Date:  08/29/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling DC_Motor.c...
+DC_MOTOR.C(25): error C25: syntax error near ')'
+Target not created
+Build target 'Target 1'
+compiling DC_Motor.c...
+linking...
+Program Size: data=1168 const=16 code=452
+creating hex file from "DC_Motor_Control"...
+"DC_Motor_Control" - 0 Error(s), 0 Warning(s).
